@@ -11,7 +11,7 @@ Over 20 years of hands-on software engineering experience -- from bare-metal per
 
 ## 🔬 Research Interests
 
-I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, planning, optimization, data-driven algorithm development and tuning) and **Trustworthy and Explainable AI**. My work focuses on efficient symbolic solvers for complex combinatorial problems and their applications, most recently in neuro-symbolic AI.
+I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, planning, optimization, data-driven algorithm development and tuning) and **Trustworthy, Explainable AI**. My work focuses on efficient symbolic solvers for complex combinatorial problems and their applications, most recently in neuro-symbolic AI.
 
 ## 📈 Engagement
 
@@ -30,15 +30,10 @@ I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, planning, optimizatio
 
 ## 📚 Selected Publications
 
-### Journal & Conference Highlights
-
+* *Sustainable Benchmarking Tool* (2026, SAT) | [DOI: 10.4230/LIPIcs.SAT.2026.36](https://doi.org/10.4230/LIPIcs.SAT.2026.36)
 * *Active Learning for SAT Solver Benchmarking* (2025, JAR) | [DOI: 10.1007/s10817-025-09729-6](https://doi.org/10.1007/s10817-025-09729-6)
 * *Global Benchmark Database* (SAT 2024) | [DOI: 10.4230/LIPIcs.SAT.2024.18](https://doi.org/10.4230/LIPIcs.SAT.2024.18)
 * *Oracle-Based Local Search for Pseudo-Boolean Optimization* (ECAI 2023) | [DOI: 10.3233/FAIA230387](https://doi.org/10.3233/FAIA230387)
 * *A Comprehensive Study of k-Portfolios of Recent SAT Solvers* (SAT 2022) | [DOI: 10.4230/LIPICS.SAT.2022.2](https://doi.org/10.4230/LIPICS.SAT.2022.2)
 * *Unit Propagation with Stable Watches* (CP 2021) | [DOI: 10.4230/LIPIcs.CP.2021.6](https://doi.org/10.4230/LIPIcs.CP.2021.6)
 * *SAT Competition 2020* (AIJ 2021) | [DOI: 10.1016/J.ARTINT.2021.103572](https://doi.org/10.1016/J.ARTINT.2021.103572)
-
-### Dissertation
-
-* *Recognition and Exploitation of Gate Structure in SAT Solving* (2020) | [DOI: 10.5445/IR/1000118523](https://doi.org/10.5445/IR/1000118523)
