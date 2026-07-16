@@ -15,7 +15,7 @@ I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, planning, optimizatio
 
 ## 📈 Engagement
 
-* **Professional Activities:** Organizer of the International SAT Competitions (since 2015); active program committee member (e.g., SAT, ECAI, KR, ALENEX) and reviewer for leading journals (e.g., AIJ, TCS, NCOMMS, JSAT, HEUR).
+* **Professional Activities:** Organizer of the International SAT Competitions (since 2015); active program committee member (e.g., SAT, ECAI) and reviewer for leading journals (e.g., AIJ, TCS, NCOMMS).
 * **Teaching & Mentorship:** Focused on graduate-level courses (including "Practical SAT Solving" with an LQI of 100, and the "Recent Advances in SAT Solving" seminar) along with mentoring research and software engineering projects. Experienced in organizing large-scale undergraduate lab courses (Algorithms, Programming) with up to 700 participants.
 * **Supervision:** Over 30 completed theses (Bachelor, Master, Diploma), split between academic, research-focused topics at the institute and industry-partnered collaborations (CAS Software AG, PLANTA Projekt-Management Systeme GmbH).
 * **Publications:** 24 peer-reviewed papers (journals, conferences & workshops).
