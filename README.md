@@ -2,10 +2,10 @@
 
 Efficient *Symbolic Reasoning* and Trustworthy *AI* -- Karlsruhe Institute of Technology (KIT)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Udopia-181717?style=flat&logo=github&logoColor=white)](https://github.com/Udopia)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=wRcC2U8AAAAJ)
 [![Email](email.svg)](https://ae.iti.kit.edu/3986.php)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2904--232X-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2904-232X)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=wRcC2U8AAAAJ)
-[![GitHub](https://img.shields.io/badge/GitHub-Udopia-181717?style=flat&logo=github&logoColor=white)](https://github.com/Udopia)
 
 Over 20 years of hands-on software engineering experience -- from bare-metal performance optimization to full-stack system design -- combined with academic expertise in algorithm engineering and automated reasoning.
 
