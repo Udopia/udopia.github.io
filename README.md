@@ -15,7 +15,7 @@ I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, planning, optimizatio
 
 ## 📈 Engagement
 
-**Professional Activities:** Organizer of the International [SAT](https://www.satisfiability.org/) Competitions (since 2015); active program committee member (e.g., [SAT](https://www.satisfiability.org/), [ECAI](https://www.eurai.org/ecai)) and reviewer for leading journals (e.g., [AIJ](https://www.sciencedirect.com/journal/artificial-intelligence), [NCOMMS](https://www.nature.com/ncomms/)).
+**Professional Activities:** Organizer of the International [SAT Competitions](https://satcompetition.github.io/) (2015; annually since 2020); active program committee member (e.g., [SAT](https://www.satisfiability.org/), [ECAI](https://www.eurai.org/ecai)) and reviewer for leading journals (e.g., [AIJ](https://www.sciencedirect.com/journal/artificial-intelligence), [NCOMMS](https://www.nature.com/ncomms/)).
 
 **Teaching & Mentorship:** Focused on graduate-level courses (including "Practical SAT Solving" with an LQI of 100, and the "Recent Advances in SAT Solving" seminar) along with mentoring research and software engineering projects. Experienced in organizing large-scale undergraduate lab courses (Algorithms, Programming) with up to 700 participants.
 
