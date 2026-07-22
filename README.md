@@ -11,7 +11,7 @@ Academic expertise in algorithm engineering and automated reasoning, grounded in
 
 ## 🔬 Research Interests
 
-I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, combinatorial optimization, constraint solving, planning, and scheduling) and its two-way relationship with machine learning: **AI for reasoning** -- data-driven algorithm selection, configuration, and tuning to push solvers to peak performance -- and **reasoning for AI** -- **Trustworthy, Explainable, and Neuro-Symbolic AI** that makes learned models verifiable and interpretable, and that grounds them in sound solvers through autoformalization and solver-in-the-loop pipelines. My work spans high-performance solver engineering for large-scale combinatorial problems and their real-world applications, such as planning, scheduling, software verification, and formal explainability.
+I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, combinatorial optimization, constraint solving, planning, and scheduling) and its two-way relationship with machine learning: **AI for reasoning** -- data-driven algorithm selection, configuration, and tuning to push solvers to peak performance -- and **reasoning for AI** -- Trustworthy, Explainable AI that makes learned models verifiable and interpretable, with an emerging interest in Neuro-Symbolic architectures that ground them in sound solvers via autoformalization and solver-in-the-loop pipelines. My work spans high-performance solver engineering for large-scale combinatorial problems and their real-world applications, such as planning, scheduling, software verification, and formal explainability.
 
 ## 📈 Engagement
 
