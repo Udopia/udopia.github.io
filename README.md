@@ -37,23 +37,23 @@ I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, combinatorial optimiz
 
 ## 📚 Selected Publications
 
-[Sustainable Benchmarking Tool](https://doi.org/10.4230/LIPIcs.SAT.2026.36) (2026, SAT)  
+[Sustainable Benchmarking Tool](https://doi.org/10.4230/LIPIcs.SAT.2026.36) (SAT@FLOC, Lisbon 2026)
 Ashlin Iser, Marie Anastacio, Théo Matricon, Laurent Simon, Holger H. Hoos
 
-[Active Learning for SAT Solver Benchmarking](https://doi.org/10.1007/s10817-025-09729-6) (2025, JAR)  
+[Active Learning for SAT Solver Benchmarking](https://doi.org/10.1007/s10817-025-09729-6) (JAR 2025)
 Tobias Fuchs, Jakob Bach, Ashlin Iser
 
-[Global Benchmark Database](https://doi.org/10.4230/LIPIcs.SAT.2024.18) (SAT 2024)  
+[Global Benchmark Database](https://doi.org/10.4230/LIPIcs.SAT.2024.18) (SAT, Pune 2024)
 Ashlin Iser, Christoph Jabs
 
-[Oracle-Based Local Search for Pseudo-Boolean Optimization](https://doi.org/10.3233/FAIA230387) (ECAI 2023)  
+[Oracle-Based Local Search for Pseudo-Boolean Optimization](https://doi.org/10.3233/FAIA230387) (ECAI, Krakow 2023)
 Ashlin Iser, Jeremias Berg, Matti Järvisalo
 
-[A Comprehensive Study of k-Portfolios of Recent SAT Solvers](https://doi.org/10.4230/LIPICS.SAT.2022.2) (SAT 2022)  
+[A Comprehensive Study of k-Portfolios of Recent SAT Solvers](https://doi.org/10.4230/LIPICS.SAT.2022.2) (SAT@FLOC, Haifa 2022)
 Jakob Bach, Ashlin Iser, Klemens Böhm
 
-[Unit Propagation with Stable Watches](https://doi.org/10.4230/LIPIcs.CP.2021.6) (CP 2021)  
+[Unit Propagation with Stable Watches](https://doi.org/10.4230/LIPIcs.CP.2021.6) (CP 2021)
 Ashlin Iser, Tomáš Balyo
 
-[SAT Competition 2020](https://doi.org/10.1016/J.ARTINT.2021.103572) (AIJ 2021)  
+[SAT Competition 2020](https://doi.org/10.1016/J.ARTINT.2021.103572) (AIJ 2021)
 Nils Froleyks, Marijn Heule, Ashlin Iser, Matti Järvisalo, Martin Suda
