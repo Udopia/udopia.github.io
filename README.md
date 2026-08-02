@@ -7,7 +7,7 @@ Efficient *Symbolic Reasoning* and Trustworthy *AI* -- Karlsruhe Institute of Te
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2904--232X-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2904-232X)
 [![GitHub](https://img.shields.io/badge/GitHub-Udopia-181717?style=flat&logo=github&logoColor=white)](https://github.com/Udopia)
 
-Deep expertise in efficient symbolic reasoning, grounded in a strong academic and research background with over 20 years of hands-on software engineering spanning bare-metal performance optimization to full-stack system design. I develop algorithms and heuristics that push the boundaries of worst-case intractable combinatorial problems in practical applications, and architect systems where learning and reasoning synergize to enhance one another.
+Deep expertise in efficient symbolic reasoning, grounded in a strong academic and research background with over 20 years of hands-on software engineering spanning bare-metal performance optimization to full-stack system design. I develop algorithms and heuristics that push the practical boundaries of worst-case intractable combinatorial problems, and architect systems where learning and reasoning synergize to enhance one another.
 
 ## 🔬 Research Interests
 
