@@ -1,6 +1,6 @@
 # Dr. Ashlin Iser
 
-Efficient *Symbolic Reasoning* and Trustworthy *AI* -- Karlsruhe Institute of Technology (KIT)
+Data Infrastructure & Systems Engineering | Efficient *Symbolic Reasoning* and Trustworthy *AI* -- Karlsruhe Institute of Technology (KIT)
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=wRcC2U8AAAAJ)
 [![Email](email.svg)](https://ae.iti.kit.edu/3986.php)
@@ -15,25 +15,25 @@ I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, combinatorial optimiz
 
 ## 📈 Engagement
 
-**Professional Activities:** Organizer of the International [SAT Competitions](https://satcompetition.github.io/) (2015; annually since 2020); active program committee member (e.g., [SAT](https://www.satisfiability.org/), [ECAI](https://www.eurai.org/ecai)) and reviewer for leading journals (e.g., [AIJ](https://www.sciencedirect.com/journal/artificial-intelligence), [NCOMMS](https://www.nature.com/ncomms/)).
+**Professional Activities:** Organizer of the International [SAT Competitions](https://satcompetition.github.io/) (2015; annually since 2020), directing distributed evaluation pipelines across high-performance compute clusters; active program committee member (e.g., [SAT](https://www.satisfiability.org/), [ECAI](https://www.eurai.org/ecai)) and reviewer for leading journals (e.g., [AIJ](https://www.sciencedirect.com/journal/artificial-intelligence), [NCOMMS](https://www.nature.com/ncomms/)).
 
-**Teaching & Mentorship:** Focused on graduate-level courses (including [Practical SAT Solving](https://satlecture.github.io/kit2026/) with an LQI of 100, and the [Recent Advances in SAT Solving](https://satlecture.github.io/seminar/) seminar) along with mentoring research and software engineering projects. Experienced in organizing large-scale undergraduate lab courses (Algorithms, Programming) with up to 700 participants.
+**Teaching & Mentorship:** Focused on graduate-level courses (including [Practical SAT Solving](https://satlecture.github.io/kit2026/), consistently evaluated in the top percentile, and the [Recent Advances in SAT Solving](https://satlecture.github.io/seminar/) seminar) along with mentoring research and software engineering projects. Experienced in organizing large-scale undergraduate lab courses (Algorithms, Programming) with up to 700 participants.
 
 **Supervision:** Over 30 completed theses (Bachelor, Master, Diploma), split between academic, research-focused topics at the institute and industry-partnered collaborations (CAS Software AG, PLANTA Projekt-Management Systeme GmbH).
 
 **Publications:** 24 peer-reviewed papers (journals, conferences & workshops), listed on my [Google Scholar profile](https://scholar.google.de/citations?user=wRcC2U8AAAAJ).
 
-**Open Source:** All projects on my [GitHub profile](https://github.com/Udopia) are open source, most notably the [Global Benchmark Database (GBD)](https://github.com/Udopia/gbd).
+**Open Source:** Author and maintainer of open-source tools on my [GitHub profile](https://github.com/Udopia), most notably the [Global Benchmark Database (GBD)](https://github.com/Udopia/gbd), a modular data ecosystem utilizing decentralized, content-based hashing for automated metadata indexing.
 
 ## 🛠 Technical Expertise
 
 **Algorithm & Performance Engineering:** Bare-metal and low-level optimization, high-performance solver engineering for large-scale combinatorial problems, and parallel algorithm design.
 
-**Full-Stack & Architecture:** End-to-end system design spanning algorithmic backends, web frontends, and relational data modeling.
+**Data Infrastructure & Architecture:** End-to-end system design spanning algorithmic backends, web frontends, and relational data modeling.
 
 **Technologies:** High Performance Computing (HPC), Constraint & Logic Solving, Database Systems and Modeling, Machine Learning, Software Testing, Static Code Analysis.
 
-**Languages & Tools:** C++, Python, SQL, C, Java, diverse Scripting Languages and Web Technologies, and extensive experience with Linux environments.
+**Languages & Tools:** C++, Python, SQL, C, Java, diverse Scripting Languages and Web Technologies, and deep experience across Linux systems environments.
 
 ## 📚 Selected Publications
 
