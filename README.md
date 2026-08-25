@@ -1,6 +1,6 @@
 # Dr. Ashlin Iser
 
-Data Infrastructure, Systems Engineering & Efficient Symbolic Reasoning -- Karlsruhe Institute of Technology (KIT)
+Data Infrastructure, Systems Engineering & Efficient Symbolic Reasoning
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=wRcC2U8AAAAJ)
 [![Email](email.svg)](https://ae.iti.kit.edu/3986.php)
