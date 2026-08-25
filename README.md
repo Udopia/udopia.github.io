@@ -1,17 +1,17 @@
 # Dr. Ashlin Iser
 
-Data Infrastructure & Systems Engineering | Efficient *Symbolic Reasoning* and Trustworthy *AI* -- Karlsruhe Institute of Technology (KIT)
+Data Infrastructure & Systems Engineering | Efficient Symbolic Reasoning -- Karlsruhe Institute of Technology (KIT)
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=wRcC2U8AAAAJ)
 [![Email](email.svg)](https://ae.iti.kit.edu/3986.php)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2904--232X-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2904-232X)
 [![GitHub](https://img.shields.io/badge/GitHub-Udopia-181717?style=flat&logo=github&logoColor=white)](https://github.com/Udopia)
 
-Deep expertise in efficient symbolic reasoning, grounded in a strong academic and research background with over 20 years of hands-on software engineering spanning bare-metal performance optimization to full-stack system design. I develop algorithms and heuristics that push the practical boundaries of worst-case intractable combinatorial problems, and architect systems where learning and reasoning synergize to enhance one another.
+Deep expertise in low-level systems engineering, database modeling, and symbolic reasoning, grounded in a strong academic and research background with over 20 years of hands-on software engineering spanning bare-metal performance optimization to full-stack system design. I develop algorithms and heuristics that push the practical boundaries of complex combinatorial problems, and architect systems where learning and reasoning synergize to enhance one another.
 
 ## 🔬 Research Interests
 
-I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, combinatorial optimization, constraint solving, planning, and scheduling) and its two-way relationship with machine learning: **AI for reasoning** -- data-driven algorithm selection, configuration, and tuning to push solvers to peak performance -- and **reasoning for AI** -- trustworthy, explainable AI that makes learned models verifiable and interpretable, with an emerging interest in neuro-symbolic architectures that ground them in sound solvers via autoformalization and solver-in-the-loop pipelines. My work spans high-performance solver engineering for large-scale combinatorial problems and their real-world applications, such as planning, scheduling, software verification, and formal explainability.
+I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, combinatorial optimization, constraint solving, planning, and scheduling) and its two-way relationship with machine learning: **AI for reasoning** -- data-driven algorithm selection, configuration, and tuning to push solvers to peak performance -- and **reasoning for AI** -- trustworthy, explainable AI that makes learned models verifiable and interpretable, with an emerging interest in neuro-symbolic architectures that ground them in sound solvers via solver-in-the-loop pipelines. My work spans high-performance solver engineering for combinatorial problems and their real-world applications, such as planning, scheduling, software verification, and formal explainability.
 
 ## 📈 Engagement
 
@@ -19,7 +19,7 @@ I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, combinatorial optimiz
 
 **Teaching & Mentorship:** Focused on graduate-level courses (including [Practical SAT Solving](https://satlecture.github.io/kit2026/), consistently evaluated in the top percentile, and the [Recent Advances in SAT Solving](https://satlecture.github.io/seminar/) seminar) along with mentoring research and software engineering projects. Experienced in organizing large-scale undergraduate lab courses (Algorithms, Programming) with up to 700 participants.
 
-**Supervision:** Over 30 completed theses (Bachelor, Master, Diploma), split between academic, research-focused topics at the institute and industry-partnered collaborations (CAS Software AG, PLANTA Projekt-Management Systeme GmbH).
+**Supervision:** Over 30 completed theses (Bachelor, Master, Diploma), split between academic research groups and industry-partnered software engineering teams (CAS Software AG, PLANTA Projekt-Management Systeme GmbH).
 
 **Publications:** 24 peer-reviewed papers (journals, conferences & workshops), listed on my [Google Scholar profile](https://scholar.google.de/citations?user=wRcC2U8AAAAJ).
 
@@ -27,11 +27,11 @@ I specialize in **Efficient Symbolic Reasoning** (SAT/SMT, combinatorial optimiz
 
 ## 🛠 Technical Expertise
 
-**Algorithm & Performance Engineering:** Bare-metal and low-level optimization, high-performance solver engineering for large-scale combinatorial problems, and parallel algorithm design.
+**Systems & Performance Engineering:** Bare-metal C++ optimization, memory footprint tuning, high-performance solver engineering for combinatorial problems, and parallel algorithm design.
 
-**Data Infrastructure & Architecture:** End-to-end system design spanning algorithmic backends, web frontends, and relational data modeling.
+**Data Infrastructure & Architecture:** End-to-end system design spanning database modeling, indexing strategies, automated extraction pipelines, zero-bloat CLI tools, and web interfaces.
 
-**Technologies:** High Performance Computing (HPC), Constraint & Logic Solving, Database Systems and Modeling, Machine Learning, Software Testing, Static Code Analysis.
+**Technologies & Paradigms:** High Performance Computing (HPC), Distributed Pipelines, Constraint & Logic Solving, Database Systems and Modeling, Machine Learning, Software Testing, Static Code Analysis, Git, CI/CD.
 
 **Languages & Tools:** C++, Python, SQL, C, Java, diverse Scripting Languages and Web Technologies, and deep experience across Linux systems environments.
 
